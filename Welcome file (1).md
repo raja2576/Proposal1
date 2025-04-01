@@ -7,7 +7,7 @@
 ### **Personal Information**  
 **Name:** Raja Kumar Rana  
 **Email:** rajakr.devloper@gmail.com  
-**GitHub:** [rajakr-dev](https://github.com/rajakr-dev) | **LinkedIn:** [Raja Kumar Rana](https://www.linkedin.com/in/raja-kumar-rana-a60715252)  
+**GitHub:** [rajakr-dev](https://github.com/raja2576) | **LinkedIn:** [Raja Kumar Rana](https://www.linkedin.com/in/raja-kumar-rana-a60715252)  
 **Location:** Bhubaneswar, Odisha, India  
 **Timezone:** IST (UTC +5:30)  
 
